@@ -1,4 +1,5 @@
 <div align="center">
+<img width="974" height="509" alt="image" src="https://github.com/user-attachments/assets/477dd58e-f0e3-4034-895e-b398eec2a7b5" />
 
 # RDPManager  
 ### Anwenderbeschreibung
