@@ -10,6 +10,10 @@ Ein schlanker Verbindungsmanager für **Windows Remote Desktop (RDP)** – über
 
 ---
 
+## Kontakt  
+Bei Fragen können Sie mich gerne per E-Mail erreichen:  
+📧 [steuerung@gmx.at](mailto:steuerung@gmx.at)
+
 ## Überblick
 
 **RDPManager** speichert deine RDP-Ziele (**IP/Hostname**, **Benutzername**) in einer Liste und startet Verbindungen per Klick automatisch über den Windows-Remotedesktop-Client **mstsc.exe**.
